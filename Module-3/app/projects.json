@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "projectId": "101",
+            "projectName": "E-commerce",
+            "technology": "Angular"
+        },
+        {
+            "projectId": "102",
+            "projectName": "API Creation",
+            "technology": "Node"
+        },
+        {
+            "projectId": "103",
+            "projectName": "Cryptocurrency",
+            "technology": "Java"
+        }
+    ]
+}
